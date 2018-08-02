@@ -1,0 +1,2 @@
+0 *	* * *	root	/home/xp/start_proxy.sh
+@reboot root /home/xp/start_proxy.sh
